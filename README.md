@@ -39,7 +39,7 @@ module.exports = {
 
 #### interval
 
-Interval time of loggin the result in seconds (default 10)
+Interval time of logging the result in seconds (default 10)
 
 ## License
 
