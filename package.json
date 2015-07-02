@@ -1,0 +1,25 @@
+{
+  "name": "sjsp-loader",
+  "version": "0.0.1",
+  "description": "node-sjsp mudule loader for webpack",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/3100/sjsp-loader.git"
+  },
+  "keywords": [
+    "node-sjsp",
+    "webpack",
+    "loader"
+  ],
+  "author": "3100",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/3100/sjsp-loader/issues"
+  },
+  "homepage": "https://github.com/3100/sjsp-loader",
+  "dependencies": {
+    "loader-utils": "^0.2.10",
+    "node-sjsp": "^1.0.3"
+  }
+}
