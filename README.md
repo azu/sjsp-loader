@@ -2,6 +2,12 @@
 
 cf. [node-sjsp](https://github.com/45deg/node-sjsp)
 
+## Install
+
+```sh
+npm install sjsp-loader --save-dev
+```
+
 ## Usage
 
 Example:

@@ -1,7 +1,7 @@
 {
   "name": "sjsp-loader",
   "version": "0.0.1",
-  "description": "node-sjsp mudule loader for webpack",
+  "description": "node-sjsp module loader for webpack",
   "main": "index.js",
   "repository": {
     "type": "git",
