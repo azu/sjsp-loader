@@ -20,6 +20,6 @@
   "homepage": "https://github.com/3100/sjsp-loader",
   "dependencies": {
     "loader-utils": "^0.2.10",
-    "node-sjsp": "^1.0.3"
+    "node-sjsp": "^1.1.1"
   }
 }
