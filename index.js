@@ -6,11 +6,11 @@
 
 var path = require('path');
 var loaderUtils = require('loader-utils');
-var injector = require('node-sjsp/lib/injector');
+var injector = require('@azu/node-sjsp');
 
 module.exports = function(source) {
-	var query = loaderUtils.parseQuery(this.query);
-	var interval = parseInt(query.interval) || 10;
-	var filename = path.basename(this.resourcePath);
-	return injector.inject(filename, source, interval);
+    var query = loaderUtils.parseQuery(this.query);
+    var interval = parseInt(query.interval) || 10;
+    var filename = path.basename(this.resourcePath);
+    return injector.inject(filename, source, interval);
 };

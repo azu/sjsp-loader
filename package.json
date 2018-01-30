@@ -1,5 +1,5 @@
 {
-  "name": "sjsp-loader",
+  "name": "@azu/sjsp-loader",
   "version": "0.0.2",
   "description": "node-sjsp module loader for webpack",
   "main": "index.js",
@@ -19,7 +19,7 @@
   },
   "homepage": "https://github.com/3100/sjsp-loader",
   "dependencies": {
-    "loader-utils": "^0.2.10",
-    "node-sjsp": "^1.1.1"
+    "@azu/node-sjsp": "^1.1.4",
+    "loader-utils": "^0.2.10"
   }
 }
