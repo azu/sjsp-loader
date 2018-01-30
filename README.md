@@ -1,12 +1,16 @@
 # node-sjsp loader for webpack
 
+**THIS IS FORK VERSION**
+
+- [azu/node-sjsp: sjsp (Simple JavaScript Profiler) implemented in Node.js](https://github.com/azu/node-sjsp "azu/node-sjsp: sjsp (Simple JavaScript Profiler) implemented in Node.js")
+
 This package allows injecting some codes for profiling your JavaScript files using [node-sjsp](https://github.com/45deg/node-sjsp)
 and [webpack](https://github.com/webpack/webpack).
 
 ## Install
 
 ```sh
-npm install sjsp-loader --save-dev
+npm install @azu/sjsp-loader --save-dev
 ```
 
 ## Usage
