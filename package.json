@@ -19,7 +19,7 @@
   },
   "homepage": "https://github.com/3100/sjsp-loader",
   "dependencies": {
-    "@azu/node-sjsp": "^1.1.4",
+    "@azu/node-sjsp": "^1.2.0",
     "loader-utils": "^0.2.10"
   }
 }
